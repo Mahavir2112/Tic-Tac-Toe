@@ -35,7 +35,7 @@ A simple web-based Tic Tac Toe game built using **HTML, CSS, and JavaScript**. P
 
 ## 📸 Screenshot
 
-![Tic Tac Toe Game](Screenshot 2025-05-26 145738.png) <!-- Replace with your actual screenshot file if available -->
+![Tic Tac Toe Game](Screenshot%202025-05-26%20145738.png)
 
 ## 📄 License
 
